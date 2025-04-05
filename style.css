@@ -1,6 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Site Title</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <h1>Welcome to My GitHub Pages Site</h1>
 body {
-    background-image: url('zer.jpg');
-    background-size: cover; /* This will ensure the image covers the whole page */
-    background-repeat: no-repeat; /* This will prevent the image from repeating */
-    background-attachment: fixed; /* This will make the background image fixed */
+    background-image: url('zer.jph');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
+</body>
+</html>
