@@ -1,1 +1,6 @@
-
+body {
+    background-image: url('zer.jpg');
+    background-size: cover; /* This will ensure the image covers the whole page */
+    background-repeat: no-repeat; /* This will prevent the image from repeating */
+    background-attachment: fixed; /* This will make the background image fixed */
+}
